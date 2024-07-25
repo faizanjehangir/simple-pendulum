@@ -4,6 +4,8 @@ This project simulates a simple pendulum in 1 dimension using Node.js for the ba
 
 ## Demo
 
+https://github.com/user-attachments/assets/eee00555-04b5-47bd-9677-e5ae50363663
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
